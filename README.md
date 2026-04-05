@@ -9,6 +9,6 @@ Burada bir adet `index.html` dosyası ve proje ekran görüntüsü bulunmaktadı
 - Projenin ekran görüntüsünü ekledim.
 
 ## Proje Görseli
-![Proje Görseli](proje.png)
+![Proje Görseli](Ekran görüntüsü 2026-04-05 131646.png)
 
 ## Dosya Yapısı
